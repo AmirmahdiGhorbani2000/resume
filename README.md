@@ -84,3 +84,16 @@
 تعداد خطوط: **حدود 2.7k**
 
 گیت هاب: [SoloChiptune](https://github.com/AmirmahdiGhorbani2000/solo-chiptune.git)
+
+
+### BookShop
+پروژه وب تمرینی سایت فروشگاهی کتب کمک آموزشی
+
+زبان: web
+
+تعداد خطوط: **حدود 1.3k**
+
+گیت هاب: [BookShop](https://github.com/AmirmahdiGhorbani2000/bookshop.git)
+
+
+
