@@ -84,16 +84,3 @@
 تعداد خطوط: **حدود 2.7k**
 
 گیت هاب: [SoloChiptune](https://github.com/AmirmahdiGhorbani2000/solo-chiptune.git)
-
-
-## ارتباط 
-**09981391814**
-
-**amir1391814@gmail.com**
-
-
-
-
-
-
-
