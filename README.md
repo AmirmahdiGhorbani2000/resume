@@ -3,10 +3,10 @@
 
 ## مهارت ها
 - Python `senior`
-- Web (html-css-js-ts-php) `mid-laval`
+- Web (html-css-js-ts-php) `mid-level`
 - Java `mid-level`
 - SQL `mid-level`
-- C `senior`
+- C `mid-level`
 - C++ `senior`
 - C# `junior`
 - Ruby `mid-level`
