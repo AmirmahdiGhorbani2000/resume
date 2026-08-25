@@ -95,5 +95,32 @@
 
 گیت هاب: [BookShop](https://github.com/AmirmahdiGhorbani2000/bookshop.git)
 
+### SoloPicture 
+پروژه وب تمرینی پلتفرم ویرایش عکس تحت وب به صورت لحظه‌ای با حدود ۱۰ قابلیت کاربردی
+
+زبان: web
+
+تعداد خطوط: **حدود 900**
+
+گیت هاب: [SoloPicture](https://github.com/AmirmahdiGhorbani2000/solo-picture.git)
+
+
+
+### PhoenixRestaurant 
+لندینگ پیچ تمرینی برای رستوران فرضی
+
+زبان: web
+
+تعداد خطوط: **حدود 1k**
+
+گیت هاب: [PhoenixRestaurant](https://github.com/AmirmahdiGhorbani2000/phoenix-restaurant.git)
+
+
+
+
+
+
+
+
 
 
