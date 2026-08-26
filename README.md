@@ -3,14 +3,15 @@
 
 ## مهارت ها
 - Python `senior`
+- C++ `senior`
 - Web (html-css-js-ts-php) `mid-level`
+- Golang `mid-level`
 - Java `mid-level`
 - SQL `mid-level`
 - C `mid-level`
-- C++ `senior`
-- C# `junior`
 - Ruby `mid-level`
 - Assembly `junior`
+- C# `junior`
 ## پروژه ها
 ### Omega Calculator v10.0.0
 ماشین حساب مهندسی پیشرفته با رابط کاربری TUI و رنگی با بیش از صد قابلیت علمی در حوزه های مختلف.
