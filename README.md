@@ -29,7 +29,8 @@
 
 تعداد خطوط: **حدود 3k**
 
-گیت هاب: `به زودی...`
+گیت هاب:  [OmegaCalculatorV11](https://github.com/AmirmahdiGhorbani2000/omega-calculator-v11.git)
+
 
 ### Solo Script v2.0.0
 زبان برنامه نویسی سریع و قدرتمند با IDE داخلی و سینتکس هایلایتینگ مناسب برای اسکریپت های کوچک یا آموزش
