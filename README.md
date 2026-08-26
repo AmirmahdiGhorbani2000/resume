@@ -116,7 +116,14 @@
 گیت هاب: [PhoenixRestaurant](https://github.com/AmirmahdiGhorbani2000/phoenix-restaurant.git)
 
 
+### SoloScraper 
+وب اسکرپر پیشرفته برای استخراج اجزای سایت ها
 
+زبان: پایتون
+
+تعداد خطوط: **حدود 550**
+
+گیت هاب: [SoloScraper](https://github.com/AmirmahdiGhorbani2000/solo-scraper.git)
 
 
 
