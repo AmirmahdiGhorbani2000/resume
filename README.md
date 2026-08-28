@@ -157,3 +157,12 @@
 گیت هاب: [SoloPattern](https://github.com/AmirmahdiGhorbani2000/solo-pattern.git)
 
 ---
+## Assembly
+### Power
+سیستم انجام محاسبه توان با سرعت بسیار بالا (۲۱۰ میکروثانیه)
+
+زبان: اسمبلی ⚫️
+
+تعداد خطوط: **حدود 100**
+
+گیت هاب: [تابع‌توان](https://github.com/AmirmahdiGhorbani2000/asm-power.git)
