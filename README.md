@@ -11,7 +11,8 @@
 - C 
 - Ruby 
 - Assembly 
-- C# 
+- C#
+- B
 # Projects
 ## Python
 ### Omega Calculator 
@@ -110,6 +111,15 @@
 زبان: C# 🟣
 
 گیت هاب: [SoloChiptune](https://github.com/AmirmahdiGhorbani2000/solo-chiptune.git)
+
+---
+## B
+## B–Automation 
+سیستم اتوماسیون نوشته‌شده با زبان B (والد زبان C)
+
+زبان: B ⚫️
+
+گیت هاب: [B-Automation](https://github.com/AmirmahdiGhorbani2000/b-automation.git)
 
 ---
 ## Go
