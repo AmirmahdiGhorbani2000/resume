@@ -1,17 +1,17 @@
 # امیرمهدی قربانی
-**متخصص برنامه نویسی سطح پایین، سطح بالا، طراحی وب و پرامپت نویسی با بیش از 50,000 خط کد و چندین پروژه بزرگ.**
+**متخصص برنامه نویسی سطح پایین، سطح بالا، طراحی وب و پرامپت نویسی با چندین پروژه بزرگ.**
 
 ## مهارت ها
-- Python `senior`
-- C++ `senior`
-- Web (html-css-js-ts-php) `mid-level`
-- Golang `mid-level`
-- Java `mid-level`
-- SQL `mid-level`
-- C `mid-level`
-- Ruby `mid-level`
-- Assembly `junior`
-- C# `junior`
+- Python 
+- C++ 
+- Web (html-css-js-ts-php) 
+- Golang 
+- Java 
+- SQL 
+- C 
+- Ruby 
+- Assembly 
+- C# 
 # Projects
 ## Python
 ### Omega Calculator 
@@ -20,16 +20,12 @@
 
 زبان: پایتون 🔵
 
-تعداد خطوط: **حدود 6.3k**
-
 گیت هاب: [OmegaCalculatorV10](https://github.com/AmirmahdiGhorbani2000/omega-calculator-v10.git)
 
 #### v11.0
 نسخه سبک‌تر و حرفه‌ای تر ورژن ۱۰.۰ با استفاده از کتابخانه های استاندارد مربوطه و ساختار منظم‌تر
 
 زبان: پایتون 🔵
-
-تعداد خطوط: **حدود 3k**
 
 گیت هاب:  [OmegaCalculatorV11](https://github.com/AmirmahdiGhorbani2000/omega-calculator-v11.git)
 
@@ -39,21 +35,17 @@
 
 زبان: پایتون 🔵
 
-تعداد خطوط: **حدود 550**
-
 گیت هاب: [SoloScraper](https://github.com/AmirmahdiGhorbani2000/solo-scraper.git)
 
 ---
 
 ## C++
 ### Solo Script v2.1.0
-نسخه بسیار پیشرفته تر پروژه قبل با قابلیت های نظیر شی‌گرایی، مدیریت فایل و... با سینتکس ساده و خوانا مناسب برای پروژه های متوسط یا آموزش.
+نسخه بسیار پیشرفته تر از نسخه ۲.۰.۰ با قابلیت های نظیر شی‌گرایی، مدیریت فایل و... با سینتکس ساده و خوانا مناسب برای پروژه های متوسط یا آموزش.
 
 زبان: C++ 🔴
 
-تعداد خطوط: **حدود 1.5k**
-
-گیت هاب: [SoloScriptV2.1](https://github.com/AmirmahdiGhorbani2000/solo-script-v2.1.git)
+گیت هاب: [SoloScript](https://github.com/AmirmahdiGhorbani2000/solo-script-2.1.git)
 
 ---
 
@@ -61,8 +53,6 @@
 مدل زبانی **آفلاین** قدرت گرفته از `llama.cpp` همراه با قابلیت های افزوده بسیار
 
 زبان: C++ 🔴
-
-تعداد خطوط: **حدود 9.3k**
 
 گیت هاب: [SoloAIv2](https://github.com/AmirmahdiGhorbani2000/solo-ai-v2.git)
 
@@ -75,8 +65,6 @@
 
 زبان: C ⚫️
 
-تعداد خطوط: **حدود 1000**
-
 گیت هاب: [SoloScriptV2.0](https://github.com/AmirmahdiGhorbani2000/solo-script-v2.git)
 
 --- 
@@ -86,8 +74,6 @@
 
 زبان: web ⚪️
 
-تعداد خطوط: **حدود 1.3k**
-
 گیت هاب: [BookShop](https://github.com/AmirmahdiGhorbani2000/bookshop.git)
 
 ---
@@ -95,8 +81,6 @@
 پروژه وب تمرینی پلتفرم ویرایش عکس تحت وب به صورت لحظه‌ای با حدود ۱۰ قابلیت کاربردی
 
 زبان: web ⚪️
-
-تعداد خطوط: **حدود 900**
 
 گیت هاب: [SoloPicture](https://github.com/AmirmahdiGhorbani2000/solo-picture.git)
 
@@ -107,8 +91,6 @@
 
 زبان: web ⚪️
 
-تعداد خطوط: **حدود 1k**
-
 گیت هاب: [PhoenixRestaurant](https://github.com/AmirmahdiGhorbani2000/phoenix-restaurant.git)
 
 ---
@@ -117,8 +99,6 @@
 سیستم پیشرفته کار با داده های CSV با متد های مختلف و کاربردی.
 
 زبان: جاوا 🟤
-
-تعداد خطوط: **حدود 8.3k**
 
 گیت هاب: [SoloCSV](https://github.com/AmirmahdiGhorbani2000/solo-csv.git)
 
@@ -129,8 +109,6 @@
 
 زبان: C# 🟣
 
-تعداد خطوط: **حدود 2.7k**
-
 گیت هاب: [SoloChiptune](https://github.com/AmirmahdiGhorbani2000/solo-chiptune.git)
 
 ---
@@ -139,8 +117,6 @@
 سیستم پیشرفته رمزنگاری با رابط کاربری متنی با انواع متد های رمزنگاری و رمزگشایی.
 
 زبان: Go 🟢
-
-تعداد خطوط: **حدود 19.2k**
 
 گیت هاب: [SoloCipherV2](https://github.com/AmirmahdiGhorbani2000/solo-cipher.git)
 
@@ -152,8 +128,6 @@
 
 زبان: روبی 🟠
 
-تعداد خطوط: **حدود 4.5k**
-
 گیت هاب: [SoloPattern](https://github.com/AmirmahdiGhorbani2000/solo-pattern.git)
 
 ---
@@ -162,7 +136,5 @@
 سیستم انجام محاسبه توان با سرعت بسیار بالا (۲۱۰ میکروثانیه)
 
 زبان: اسمبلی ⚫️
-
-تعداد خطوط: **حدود 100**
 
 گیت هاب: [تابع‌توان](https://github.com/AmirmahdiGhorbani2000/asm-power.git)
