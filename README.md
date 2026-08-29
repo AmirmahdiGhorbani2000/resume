@@ -70,12 +70,12 @@
 
 --- 
 ## Web
-### BookShop
-پروژه وب، سایت فروشگاهی کتب کمک آموزشی با فرانت‌اند مدرن، بک‌اند (flask) و دیتابیس اطلاعات.
+### BookShop v2.0
+پروژه طراحی وب با فرانت-اند فریمورک ری‌اکت و بک‌-اند کتابخانه فلاسک با دیتابیس اطلاعات با SQLite و امنیت بالا با استفاده از رمزنگاری پیشرفته
 
 زبان: web ⚪️
 
-گیت هاب: [BookShop](https://github.com/AmirmahdiGhorbani2000/bookshop.git)
+گیت هاب: [BookShopV2](https://github.com/AmirmahdiGhorbani2000/book-shop.git)
 
 ---
 ### SoloPicture 
