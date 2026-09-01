@@ -10,7 +10,7 @@
 - TypeScript
 - Flask
 - React
-- SQLite
+- SQLite & SQL
 - Git & Linux
 
 # Projects
