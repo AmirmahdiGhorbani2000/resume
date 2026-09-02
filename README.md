@@ -10,6 +10,7 @@
 - TypeScript
 - Flask & Django
 - React
+- Node.js
 - SQLite & SQL
 - Git & Linux
 
@@ -41,6 +42,14 @@
 
 ---
 ## Web
+## HerbalShop
+سامانه فروشگاهی تخصصی عرضه گیاهان دارویی با معماری MERN Stack. پیاده‌سازی درگاه پرداخت زرین‌پال، پنل مدیریت جامع، احراز هویت مبتنی بر JWT، مدیریت موجودی و سفارشات. شامل REST API با الگوی MVC و رابط کاربری واکنش‌گرا توسعه‌یافته با React و TypeScript.
+
+زبان: web (Node.js)
+
+گیت هاب: [Herbalshop](https://github.com/AmirmahdiGhorbani2000/herbal-shop-2.git)
+
+---
 ### BookShop v3.0
 پروژه طراحی وب با فرانت-اند فریمورک ری‌اکت و بک‌-اند کتابخانه جنگو با دیتابیس اطلاعات با SQLite و امنیت بالا با استفاده از رمزنگاری پیشرفته همراه پنل ادمین و ساختار ماژولار و clean code با درگاه پرداخت زرین‌پال
 
