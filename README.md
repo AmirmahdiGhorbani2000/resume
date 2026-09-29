@@ -76,6 +76,12 @@
 گیت هاب: [SoloPicture](https://github.com/AmirmahdiGhorbani2000/solo-picture.git)
 
 ---
+### BabyLand
+BabyLand یک لندینگ‌پیج فروشگاهی پوشاک نوزاد و کودک است که به‌عنوان نمونه فرانت‌اند خالص در رزومه ارائه می‌شود. معماری آن شامل سه فایل مستقل (index.html، style.css، script.js) بدون framework و build step است. CSS بر پایه Custom Properties و ترکیب Grid و Flexbox پیاده شده و پالت رنگی با روانشناسی رنگ کودکانه طراحی شده. JavaScript با ES2020 نوشته شده و از IntersectionObserver برای reveal on scroll، requestAnimationFrame برای انیمیشن، و Event Delegation برای مدیریت کلیک‌ها استفاده می‌کند. دسترس‌پذیری مطابق WCAG AA و سئو با متاتگ‌های Open Graph پیاده‌سازی شده. کد ماژولار، سبک و قابل استقرار روی هر static host است.
+
+زبان: web
+
+گیت هاب: [BabyLand](https://github.com/AmirmahdiGhorbani2000/baby-land.git)
 ### PhoenixRestaurant 
 لندینگ پیچ برای رستوران ققنوس با استفاده از فریمورک React و معماری ساختارمند و توسعه‌پذیر با معماری SPA و رندر داینامیک
 
