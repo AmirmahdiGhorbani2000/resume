@@ -6,11 +6,11 @@
 - Html
 - CSS
 - JavaScript
-- PHP
 - TypeScript
 - Flask & Django
 - React
 - Node.js
+- Axum
 - SQLite & SQL
 - Git & Linux
 
@@ -52,7 +52,7 @@
 بازدید از سایت: [ابزارپویان](https://abzarpoyan.ir)
 
 ---
-## HerbalShop
+### HerbalShop
 سامانه فروشگاهی تخصصی عرضه گیاهان دارویی با معماری MERN Stack. پیاده‌سازی درگاه پرداخت زرین‌پال، پنل مدیریت جامع، احراز هویت مبتنی بر JWT، مدیریت موجودی و سفارشات. شامل REST API با الگوی MVC و رابط کاربری واکنش‌گرا توسعه‌یافته با React و TypeScript.
 
 زبان: web (Node.js)
@@ -70,12 +70,13 @@
 گیت هاب: [BookShopV3](https://github.com/AmirmahdiGhorbani2000/book-shop-v3.git)
 
 ---
-### QR Code
-سیستم پیشرفته تولید و مدیریت QR Code مبتنی بر معماری ماژولار PHP. این راهکار سبک و مستقل، امکان تبدیل آنی محتوای متنی و پیوندها را به کدهای QR استاندارد فراهم می‌آورد. بهره‌گیری از API خارجی برای پردازش تصویر، نیاز به نصب کتابخانه‌های گرافیکی سمت سرور را مرتفع ساخته و سازگاری با محیط‌های اجرایی محدود مانند Termux را تضمین می‌کند.
+### SilverSport
 
-زبان: PHP
+پروژه SilverSport یک فروشگاه اینترنتی لوازم ورزشی است که با هدف تمرین معماری full-stack مدرن طراحی شده؛ فرانت‌اند با React و TypeScript به‌صورت SPA و مدیریت state با Zustand، بک‌اند با Rust و فریم‌ورک Axum به‌عنوان یک API سبک و type-safe، و لایه داده با PostgreSQL و SQLx. پروژه شامل جستجو و فیلتر محصولات، سبد خرید، احراز هویت و ثبت سفارش است و با هدف کمینه‌سازی پیچیدگی، در کمترین تعداد فایل ممکن پیاده‌سازی شده تا تمرکز اصلی روی کیفیت معماری، type-safety انتها به انتها و سرعت اجرا باشد.
 
-گیت هاب: [QR-CODE](https://github.com/AmirmahdiGhorbani2000/qr-code.git)
+زبان: web
+
+گیت هاب: [SilverSport](https://github.com/AmirmahdiGhorbani2000/silver-sport.git)
 
 ---
 ### SoloPicture 
