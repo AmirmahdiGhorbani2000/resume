@@ -2,17 +2,17 @@
 **طراح و توسعه‌دهنده وب با تمرکز بر فرانت‌اند مدرن و بک‌اند قدرتمند**
 
 ## مهارت ها
-- Python
-- Html
-- CSS
-- JavaScript
-- TypeScript
-- Flask & Django
-- React
-- Node.js
-- Axum
-- SQLite & SQL
-- Git & Linux
+- Python 🔵
+- Html 🔴
+- CSS 🟣
+- JavaScript 🟡
+- TypeScript 🟢
+- Flask & Django 🔵
+- React 🟠
+- Node.js 🟠
+- Axum 🟤
+- SQLite & SQL ⚪️
+- Git & Linux ⚫️
 
 # Projects
 ## Python
