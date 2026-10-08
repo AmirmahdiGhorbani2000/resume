@@ -1,18 +1,16 @@
 # امیرمهدی قربانی
-**طراح و توسعه‌دهنده وب با تمرکز بر فرانت‌اند مدرن و بک‌اند قدرتمند**
+**برنامه‌نویس وب فول استک با دانش در پایتون و C++ و کمی rust (در بک‌اند)**
 
 ## مهارت ها
-- Python 🔵
-- Html 🔴
-- CSS 🟣
-- JavaScript 🟡
-- TypeScript 🟢
-- Flask & Django 🔵
-- React 🟠
-- Node.js 🟠
-- Axum 🟤
-- SQLite & SQL ⚪️
-- Git & Linux ⚫️
+- Python
+- Rust
+- C++
+- HTML
+- CSS
+- JavaScript & TypeScript
+- Node.js
+- Flask & Django
+- Axum
 
 # Projects
 ## Python
@@ -39,6 +37,15 @@
 زبان: پایتون
 
 گیت هاب: [SoloScraper](https://github.com/AmirmahdiGhorbani2000/solo-scraper.git)
+
+---
+## C++
+### SoloScript v2.1
+زبان برنامه‌نویسی مفسری نوشته شده با C++17 با سرعت و دقت بالا، سینتکس ساده، تایپ استاتیک، مدیریت فایل، OOP، کتابخانه و import با الهام از نکات برجسته زبان های معروف.
+
+زبان: C++
+
+گیت هاب: [SoloScript](https://github.com/AmirmahdiGhorbani2000/solo-script-v2.1.git)
 
 ---
 ## Web
